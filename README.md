@@ -12,7 +12,7 @@ To enhance customer experience, This application has the capability of detecting
 For further explanation on how this was done. Take a look at [Scene-Viewer](https://developers.google.com/ar/develop/java/scene-viewer).
 #### Education Industry:
 To help students in engineering field to better visualize the 2D views in 3D modeling.
-ArFlexe renders the 3D Models of the side-views given. 
+ShopAR renders the 3D Models of the side-views given. 
 
 It scans the image and provides the model accordingly. 
 
