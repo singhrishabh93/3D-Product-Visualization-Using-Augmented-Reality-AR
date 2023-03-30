@@ -23,7 +23,7 @@ To run this application on your android device, you must install [
 Google Play Services for AR](https://play.google.com/store/apps/details?id=com.google.ar.core&hl=en). Also ensure that your device is on the list of [compatible devices](https://developers.google.com/ar/discover/supported-devices).
 
 Test this apllication on your Android Device:
--  ![image](https://user-images.githubusercontent.com/92676834/228815793-b693f7a3-e61b-4c16-8328-cb446c01c431.png)
+-  https://drive.google.com/file/d/1FvJSk0DZvxjfnJUqsm1wVq_xC6xX_2ls/view?usp=share_link
 
 
 
